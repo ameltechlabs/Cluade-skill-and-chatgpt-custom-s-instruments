@@ -1,4 +1,4 @@
-# AmelTech Claude Skills
+# AmelTech Claude Skills ( AmelTech class premium skill free close 1:10 PM, 24/09/2026 )
 
 A collection of [Agent Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for Claude, built by **AmelTech** for engineering, science and academic work: rigorous problem solving and token-efficient reasoning.
 
